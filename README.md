@@ -1,4 +1,4 @@
-# <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="35" height="35" align="center" /> Olá! Eu sou a Isabela 
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35" align="center" /> Olá! Eu sou a Isabela 
 
 Sou estudante de **Informática para Internet** no **Centro Paula Souza**, com interesse principalmente em **desenvolvimento web**, **programação**, **tecnologia** e **UX/UI**.
 
