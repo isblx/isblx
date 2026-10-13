@@ -1,10 +1,12 @@
-Olá! Eu sou a Isabela.
+# Olá! Eu sou a Isabela 👋
 
-Sou estudante do Ensino Médio Técnico em Informática para Internet e tenho interesse principalmente em desenvolvimento web, programação, tecnologia e UX/UI.
+Sou estudante de Informática para Internet no Centro Paula Souza[cite: 1], com interesse principal em desenvolvimento web, programação, tecnologia e UX/UI.
 
-Gosto de aprender na prática, criando projetos e explorando novas ferramentas. Atualmente venho desenvolvendo meus conhecimentos em HTML, CSS, JavaScript, Python, Git/GitHub e Figma.
+Gosto de aprender na prática, criando projetos e explorando novas ferramentas. Atualmente venho desenvolvendo os meus conhecimentos em HTML, CSS, JavaScript, Python, Git/GitHub e Figma.
 
-Meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experiência e transformando o que aprendo em projetos cada vez melhores.
+O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experiência e transformando o que aprendo em projetos cada vez melhores.
+
+---
 
 ### 💻 Tecnologias e ferramentas
 
@@ -18,22 +20,26 @@ Meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experiên
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" />
 </div>
-📚 O que estou estudando
 
-Desenvolvimento web
-Lógica de programação e algoritmos
-HTML5 e CSS3
-JavaScript
-Python
-Git e GitHub
-UX/UI e prototipação no Figma
-Banco de dados
-Arduino e automação## Hi there 👋
+---
 
-<!--
-**isblx/isblx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 O que estou estudando
 
-Here are some ideas to get you started:
+* Desenvolvimento web
+* Lógica de programação e algoritmos
+* HTML5 e CSS3
+* JavaScript
+* Python
+* Git e GitHub
+* UX/UI e prototipação no Figma
+* Banco de dados
+* Arduino e automação
+
+---
+
+### 🚀 Alguns dos meus projetos
+
+* *Em breve novos projetos por aqui!*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
