@@ -1,4 +1,4 @@
-# ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) Olá! Eu sou a Isabela 
+# <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="35" height="35" align="center" /> Olá! Eu sou a Isabela 
 
 Sou estudante de **Informática para Internet** no **Centro Paula Souza**, com interesse principalmente em **desenvolvimento web**, **programação**, **tecnologia** e **UX/UI**.
 
@@ -8,13 +8,13 @@ O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experi�
 
 ---
 
-### 📞 Contato:
+### Contato:
 
 <p>
-  <a href="https://instagram.com/isbl.xr?cplk=ZWRicW95MnNjdnI0" target="_blank">
+  <a href="https://instagram.com/seu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="www.linkedin.com/in/isabela-oliveira-54504a443" target="_blank">
+  <a href="https://linkedin.com/in/isabela-oliveira-54504a443" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:isabela.lourenco2@aluno.cps.sp.gov.br" target="_blank">
@@ -50,3 +50,4 @@ O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experi�
 * UX/UI e prototipação no Figma
 * Banco de dados
 * Arduino e automação
+
