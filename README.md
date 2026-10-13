@@ -35,8 +35,3 @@ O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experi�
 * Banco de dados
 * Arduino e automação
 
----
-
-### 🚀 Alguns dos meus projetos
-
-* *Em breve novos projetos por aqui!*
