@@ -1,4 +1,4 @@
-# <img src="https://myoctocat.com/assets/images/base-octocat.png" width="40" height="40" align="center" /> Olá! Eu sou a Isabela
+# <img src="https://vectorified.com/image/github-icon-vector-19.png" width="38" height="38" style="vertical-align: sub;" /> Olá! Eu sou a Isabela
 
 Sou estudante de **Informática para Internet** no **Centro Paula Souza**, com interesse principalmente em **desenvolvimento web**, **programação**, **tecnologia** e **UX/UI**.
 
