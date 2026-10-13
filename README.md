@@ -14,7 +14,7 @@ O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experi�
   <a href="https://instagram.com/isbl.xr?cplk=ZWRicW95MnNjdnI0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/isabelalourenco" target="_blank">
+  <a href="https://www.linkedin.com/in/isabelaloureço" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:isabela.lourenco2@aluno.cps.sp.gov.br" target="_blank">
