@@ -1,8 +1,8 @@
 # Olá! Eu sou a Isabela 
 
-Sou estudante de Informática para Internet no Centro Paula Souza, com interesse principal em desenvolvimento web, programação, tecnologia e UX/UI.
+Sou estudante de **Informática para Internet no Centro Paula Souza**, com interesse principal em **desenvolvimento web, programação, tecnologia e UX/UI**.
 
-Gosto de aprender na prática, criando projetos e explorando novas ferramentas. Atualmente venho desenvolvendo os meus conhecimentos em HTML, CSS, JavaScript, Python, Git/GitHub e Figma.
+Gosto de aprender na prática, criando projetos e explorando novas ferramentas. Atualmente venho desenvolvendo os meus conhecimentos em **HTML, CSS, JavaScript, Python, Git/GitHub e Figma**.
 
 O meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experiência e transformando o que aprendo em projetos cada vez melhores.
 
