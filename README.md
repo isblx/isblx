@@ -1,4 +1,4 @@
-# Olá! Eu sou a Isabela 👋
+# Olá! Eu sou a Isabela 
 
 Sou estudante de Informática para Internet no Centro Paula Souza[cite: 1], com interesse principal em desenvolvimento web, programação, tecnologia e UX/UI.
 
