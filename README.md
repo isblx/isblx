@@ -19,6 +19,7 @@ Meu objetivo é continuar evoluindo na área de tecnologia, adquirindo experiên
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" />
 </div>
 📚 O que estou estudando
+
 Desenvolvimento web
 Lógica de programação e algoritmos
 HTML5 e CSS3
